@@ -3,12 +3,12 @@
   "api_site": {
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "name": "电影天堂资源",
+      "name": "天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "name": "黑木耳",
+      "name": "黑幕资源",
       "detail": "https://heimuer.tv"
     },
     "ruyi": {
@@ -79,11 +79,47 @@
     },
     "lzi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "name": "量子资源站"
+      "name": "量子资源"
     },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
-      "name": "小猫咪资源"
-    }
+      "name": "猫咪资源"
+	  },
+	  
+	  "ffzyapi": {
+      "api": "https://api.ffzyapi.com/api.php/provide/vod/",
+      "name": "非凡资源"
+	  },
+	  "huyaapi": {
+      "api": "https://www.huyaapi.com/api.php/provide/vod/",
+      "name": "虎牙资源"
+	  },
+	  
+	  "wujinapi": {
+      "api": "https://api.wujinapi.com/api.php/provide/vod/",
+      "name": "无尽资源"
+	  },
+	  
+	  "apibdzy": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "name": "百度资源"
+	  },
+	  "sdzyapi": {
+      "api": "https://sdzyapi.com/api.php/provide/vod",
+      "name": "速度资源"
+	  },
+	  "hongniuzy2": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "name": "红牛资源"
+	  },
+	  "gayapi": {
+      "api": "https://gayapi.com/api.php/provide/vod/",
+      "name": "快播资源"
+	  },
+	  "suoniapi": {
+      "api": "https://www.suoniapi.com/api.php/provide/vod/",
+      "name": "索尼资源"
+	  }
+	  
   }
 }
