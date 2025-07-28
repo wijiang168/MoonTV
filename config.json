@@ -112,10 +112,6 @@
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "name": "红牛资源"
 	  },
-	  "gayapi": {
-      "api": "https://gayapi.com/api.php/provide/vod/",
-      "name": "快播资源"
-	  },
 	  "suoniapi": {
       "api": "https://www.suoniapi.com/api.php/provide/vod/",
       "name": "索尼资源"
